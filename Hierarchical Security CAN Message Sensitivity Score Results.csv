@@ -1,0 +1,111 @@
+ID,Bus,Average Period (s),Average LEN (byte),Hidden Meaning,ASILs,ID_Score,Average Period (s)_Score,Average LEN_Score,ASILs_Score,Weighted_Score
+0000020A,0,1,6,High-voltage contactor status information.,C,12.79279279,0,60,40,28.88148649
+00000232,0,1,8,Battery management system contactor request information.,C,17.64864865,0,80,40,33.86781622
+0000024A,0,1,1,Driver assistance system visual debugging information.,QM,20.32432432,0,10,100,36.88750811
+0000022A,0,0.1,4,High-voltage power control system information.,C,17.35135135,90,40,40,39.78218378
+000001D6,0,0.1,6,Drive system limitation information.,C,8.927927928,90,60,40,39.91626486
+00000126,0,0.1,7,Rear high-voltage status information.,C,5.162162162,90,70,40,40.14625405
+000002D3,0,1,8,Solar data information.,C,35.09009009,0,80,40,40.24091892
+00000332,0,1,6,Battery cell minimum/maximum voltage information.,C,44.20720721,0,60,40,40.36031351
+00000273,0,0.4,8,Vehicle control information.,D,24.88288288,60,80,20,40.38120541
+0000013D,0,0.01,6,Charging status information.,C,7.045045045,99,60,40,40.47295946
+00000119,0,0.1,2,Window request information.,A,4.072072072,90,20,80,40.57393514
+00000108,0,0.1,8,Drive system torque information.,C,2.882882883,90,80,40,40.91940541
+00000300,0,1,8,Battery management system information.,C,37.07207207,0,80,40,40.96513514
+0000004F,0,1,8,GPS latitude and longitude information.,QM,1.396396396,0,80,100,41.21324324
+000001A5,0,0.1,7,Front high-voltage status information.,C,8.234234234,90,70,40,41.26878919
+00000227,0,0.1,8,Compressor status information.,D,16.16216216,90,80,20,41.34365405
+00000082,0,1,8,Trip planning information.,QM,1.792792793,0,80,100,41.35808649
+00000242,0,0.1,2,Left low-voltage power status information.,B,18.83783784,90,20,60,41.54134595
+00000312,0,1,8,Battery management system thermal information.,C,39.64864865,0,80,40,41.90661622
+00000225,0,0.1,3,Right low-voltage power status information.,B,15.76576577,90,30,60,42.02481081
+00000315,0,1,8,Rear inverter temperature information.,C,40.44144144,0,80,40,42.1963027
+00000118,0,0.01,8,Drive system status information.,C,3.675675676,99,80,40,42.45379189
+00000229,0,0.1,3,Gear lever information.,B,16.95495495,90,30,60,42.45934054
+00000186,0,0.1,8,Drive system torque information.,C,7.441441441,90,80,40,42.5851027
+00000132,0,0.01,8,High-voltage battery current/voltage information.,C,6.351351351,99,80,40,43.43148378
+00000284,0,0.5,5,Vehicle mode information.,B,27.95495495,50,50,60,44.15874054
+00000204,0,0.1,8,Charging system status information.,C,12,90,80,40,44.2508
+0000029D,0,0.1,4,DC charging status information.,C,30.23423423,90,40,40,44.48958919
+00000212,0,0.1,8,Battery management system status information.,C,13.88288288,90,80,40,44.93880541
+00000102,0,0.1,8,Left door status information.,B,2.09009009,90,80,60,45.05771892
+00000103,0,0.1,8,Right door status information.,B,2.486486486,90,80,60,45.20256216
+00000264,0,0.1,6,Charging line status information.,C,23.3963964,90,60,40,45.20304324
+0000021D,0,0.1,8,Charging pile status information.,C,14.67567568,90,80,40,45.22849189
+00000352,0,1,8,Battery management system energy status information.,C,48.76576577,0,80,40,45.23801081
+000002BD,0,0.1,4,DC power limitation information.,C,32.51351351,90,40,40,45.32243784
+00000224,0,0.1,8,Power control system DC-DC converter status information.,C,15.36936937,90,80,40,45.48196757
+00000301,0,1,8,Front information.,B,37.36936937,0,80,60,45.50176757
+00000333,0,0.5,5,Charging request information.,C,44.6036036,50,50,40,45.81415676
+00000249,0,0.05,4,Left turn signal lever information.,B,19.92792793,95,40,60,45.84316486
+00000228,0,0.1,8,Right electronic parking brake status information.,C,16.55855856,90,80,40,45.9164973
+00000113,0,0.1,3,Gateway debugging information.,QM,3.279279279,90,30,100,46.31824865
+00000334,0,0.5,8,Power system control information.,D,45,50,80,20,46.349
+000002B6,0,0.1,2,Chassis control status information.,B,32.11711712,90,20,60,46.39359459
+00000399,0,1,3,Driver assistance system status information.,B,62.44144144,0,30,60,46.6331027
+000002B4,0,0.1,5,DC-DC converter status information.,C,31.72072072,90,50,40,46.63875135
+000003BB,0,1,2,Power information.,B,67.3963964,0,20,60,46.83764324
+00000122,0,0.1,6,Left door status information (extended).,A,4.369369369,90,60,80,47.10656757
+000002F3,0,0.5,5,HVAC request information.,B,36.27927928,50,50,60,47.20044865
+00000252,0,0.1,8,Battery management system available power information.,C,20.72072072,90,80,40,47.43735135
+00000321,0,1,8,Front sensor information.,B,42.72072072,0,80,60,47.45715135
+00000129,0,0.01,8,Steering angle information.,B,5.954954955,99,80,60,47.71464054
+00000376,0,1,8,Front inverter temperature information.,C,55.6036036,0,80,40,47.73655676
+0000025D,0,0.1,8,Charging system status information.,C,21.90990991,90,80,40,47.87188108
+0000037D,0,1,8,Charging system thermal status information.,C,56.79279279,0,80,40,48.17108649
+00000268,0,0.1,5,System power information.,B,24.09009009,90,50,60,48.27851892
+0000033A,0,1,8,Range and battery level information.,B,46.09009009,0,80,60,48.68831892
+000001D5,0,0.01,8,Front torque information.,B,8.630630631,99,80,60,48.69233243
+00000257,0,0.02,8,Drive system speed information.,C,21.51351351,98,80,40,48.83343784
+000001D8,0,0.01,8,Rear torque information.,B,9.324324324,99,80,60,48.94580811
+0000020C,0,0.1,8,Right HVAC request information.,B,13.09009009,90,80,60,49.07711892
+00000293,0,0.5,8,Chassis control information.,B,29.83783784,50,80,60,49.66474595
+00000266,0,0.01,8,Rear inverter power information.,C,23.79279279,99,80,40,49.80458649
+000003FE,0,1,5,Brake temperature information.,C,74.92792793,0,50,40,49.97966486
+00000288,0,0.1,8,Left electronic parking brake status information.,C,29.04504505,90,80,40,50.47905946
+00000221,0,0.05,8,Front low-voltage power status information.,B,15.07207207,95,80,60,50.49283514
+00000292,0,0.1,8,Battery management system battery level information.,C,29.44144144,90,80,40,50.6239027
+00000281,0,0.1,6,Front compressor request information.,B,26.76576577,90,60,60,50.86221081
+000002A8,0,0.1,8,Compressor drive status information.,C,30.92792793,90,80,40,51.16706486
+00000243,0,0.03,8,Right HVAC status information.,B,19.23423423,97,80,60,52.29028919
+000002D2,0,0.1,8,Battery management system voltage/current limitation information.,C,34.79279279,90,80,40,52.57928649
+000003D2,0,1,8,Total charge/discharge information.,C,70.36936937,0,80,40,53.13196757
+00000313,0,0.5,8,Track mode setting information.,B,40.04504505,50,80,60,53.39445946
+00000241,0,0.1,7,Front coolant information.,A,18.44144144,90,70,80,53.8545027
+0000027D,0,0.1,8,DC charging limitation information.,B,26.36936937,90,80,60,53.92936757
+00000556,0,1,5,Front drive system temperature information.,C,86.32432432,0,50,40,54.14390811
+00000201,0,0.014,8,Front 10Hz log and critical information.,A,11.6036036,98.6,80,80,54.15133676
+00000743,0,1,1,Right recall status information.,B,92.76576577,0,10,60,54.50161081
+0000039D,0,0.04,5,Drive system brake status information.,D,63.23423423,96,50,20,54.55558919
+000005D5,0,1,5,Rear drive system temperature information.,C,87.90990991,0,50,40,54.72328108
+00000123,0,0.1,8,User interface alert matrix information.,QM,4.765765766,90,80,100,54.89141081
+00000282,0,0.05,8,Left HVAC blower feedback information.,B,27.16216216,95,80,60,54.91055405
+00000335,0,0.1,8,Rear drive system information.,C,45.3963964,90,80,40,56.45384324
+00000392,0,0.5,8,Battery management system battery pack configuration information.,C,60.55855856,50,80,40,56.4620973
+00000557,0,1,4,Front thermal control information.,B,86.72072072,0,40,60,57.11075135
+000003D8,0,1,2,Altitude information.,QM,71.95495495,0,20,100,57.35934054
+000005D7,0,1,4,Rear thermal control information.,B,88.20720721,0,40,60,57.65391351
+00000261,0,0.033,8,12V battery status information.,A,22.20720721,96.7,80,80,57.76312351
+000003B3,0,0.5,5,Vehicle control information (extended).,B,66.20720721,50,50,60,58.13611351
+000003B6,0,1,4,Odometer information.,QM,67,0,40,100,58.7608
+00000287,0,0.1,8,Cabin heating sensor status information.,A,28.64864865,90,80,80,59.19021622
+00000353,0,0.8,8,User interface status information.,QM,49.16216216,20,80,100,61.43285405
+00000528,0,1,4,Unix time information.,QM,83.64864865,0,40,100,64.84421622
+00000383,0,0.1,8,Right thermal management system status information.,B,57.88288288,90,80,60,65.44440541
+000002F1,0,0.1,8,Front electronic fuse debugging status information.,QM,35.48648649,90,80,100,66.11676216
+00000395,0,0.1,8,Drive system oil pump information.,B,61.35135135,90,80,60,66.71178378
+00000396,0,0.1,8,Front oil pump information.,B,61.64864865,90,80,60,66.82041622
+000003F2,0,1,8,Battery management system counter information.,QM,73.83783784,0,80,100,67.68334595
+00000318,0,0.1,8,System time (UTC) information.,QM,41.23423423,90,80,100,68.21698919
+000003A1,0,0.05,8,Front vehicle status information.,B,63.63063063,95,80,60,68.23613243
+000003C3,0,0.1,8,Right switch status information.,B,68.48648649,90,80,60,69.31896216
+000003C2,0,0.05,8,Left switch status information.,B,68.09009009,95,80,60,69.86561892
+00000381,0,0.043,8,Front 1Hz log information.,A,57.09009009,95.7,80,80,70.37102892
+00000656,0,0.1,8,Front drive system information.,C,88.6036036,90,80,40,72.24175676
+0000075D,0,0.2,8,Charging system sensor data.,C,94.64864865,80,80,40,73.06761622
+0000043D,0,0.1,6,Charging status log information.,A,79.88288288,90,60,80,74.69920541
+000003F5,0,0.1,8,Front lighting system information.,A,74.23423423,90,80,80,75.84718919
+000003D9,0,0.1,8,GPS vehicle speed information.,QM,72.35135135,90,80,100,79.58718378
+000007FF,0,0.1,8,Vehicle configuration information.,B,100,90,80,60,80.834
+00000757,0,0.1,8,Drive system debugging information.,QM,94.35135135,90,80,100,87.62598378
+000007D5,0,0.04,8,Drive system debugging information.,QM,98.90990991,96,80,100,90.12148108
